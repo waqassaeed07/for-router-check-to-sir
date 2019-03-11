@@ -1,0 +1,54 @@
+
+
+
+.rightside{
+    background-color: rgb(247, 78, 106);
+    height: 208px;
+    border-bottom-right-radius:200px;
+}
+#title{
+    padding-top: 70px;
+    text-transform: uppercase;
+    color:white;
+    font-size:3.5em;
+}
+#times{
+    color:white;
+    font-size:1em;
+}
+
+/* default setting end */
+
+.tablee{
+    margin-top:60px;
+}
+.addrow{
+    margin-top:15px;
+    border:1px solid grey;
+    border-radius:25px ;
+    padding:5px;
+}
+.whitepic{
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px 1px grey,1px 2px 2px 3px rgb(204, 201, 201),3px 3px 3px 3px rgb(218, 215, 215);
+    height: 35px;
+    width:35px;
+    margin-top:-13px;
+    margin-left:3px;
+}
+.tdpera{
+    font-size: 1.5em;
+    display: inline;
+    margin-left:30px;
+  
+}
+.starpic{
+    float:right;
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px 1px grey,1px 2px 2px 3px rgb(204, 201, 201),3px 3px 3px 3px rgb(218, 215, 215);
+    height: 30px;
+    width:30px;
+    margin-right:5px;
+    
+}
+
